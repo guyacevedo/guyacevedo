@@ -66,3 +66,10 @@ Agosto – septiembre 2020<br>
 
 • Español<br>
 • Inglés (Básico - A2)
+
+### 📬 &nbsp;Contacto
+
+[![Linkedin Badge](https://img.shields.io/badge/-GuyAcevedo-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guyacevedo/)](https://www.linkedin.com/in/guyacevedo/)
+[![Twitter Badge](https://img.shields.io/badge/GuyAcevedo-1DA1F2?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/guyacevedo_)](https://twitter.com/guyacevedo_)
+[![Gmail Badge](https://img.shields.io/badge/-guy.acevedoa@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:guy.acevedoa@gmail.com)](mailto:guy.acevedoa@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-GuyAcevedo-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/guyacevedo/)](https://www.instagram.com/guyacevedo/)
