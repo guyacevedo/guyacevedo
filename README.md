@@ -42,27 +42,27 @@ Desarrollador de software con conocimientos y experiencia, trabajando con tecnol
 ![GitHub](https://img.shields.io/badge/-GitHub-001930?style=plastic&logo=GitHub&logoColor=white)
 ![Spring-Tools-Suite](https://img.shields.io/badge/-Spring-Tools-Suite-339933?style=plastic&logo=Spring-Tools-Suite&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-001930?style=plastic&logo=Eclipse&logoColor=white)
-![Visual-Studio-Code](https://img.shields.io/badge/-Visual-Studio-Code-0067C8?style=plastic&logo=Visual-Studio-Code&logoColor=white)
-![Andoid-Studio](https://img.shields.io/badge/-Andoid-Studio-007717?style=plastic&logo=Andoid-Studio&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-0067C8?style=plastic&logo=VSCode&logoColor=white)
+![Andoid Studio](https://img.shields.io/badge/-Andoid-007717?style=plastic&logo=Andoid&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-F7DF1E?style=plastic&logo=Firebase&logoColor=black)
-![IntelliJ-IDEA](https://img.shields.io/badge/-IntelliJ-IDEA-001930?style=plastic&logo=IntelliJ-IDEA&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-001930?style=plastic&logo=IntelliJ&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-0067C8?style=plastic&logo=Docker&logoColor=white)
 
 ### 🧑‍💻 &nbsp;Experiencia
 
-Creditos Berpar – Desarrollador de Software Freelance.
-Enero – agosto 2021
-• Se desarrollo una aplicación web para la gestión de préstamos de dinero y clientes.
-• La aplicación se desarrolló utilizando PHP y MySQL con el framework Codeigniter 4.
+Creditos Berpar – Desarrollador de Software Freelance.<br>
+Enero – agosto 2021<br>
+• Se desarrollo una aplicación web para la gestión de préstamos de dinero y clientes.<br>
+• La aplicación se desarrolló utilizando PHP y MySQL con el framework Codeigniter 4.<br>
 • La aplicación se subió a un hosting.
 
-Tendencias shoes – Desarrollador de Software Freelance.
-Agosto – septiembre 2020
-• Se desarrollo una aplicación de escritorio para la gestión de artículos de calzado, ropa, entre otros,
-• La aplicación se desarrolló utilizando Java y MySQL.
+Tendencias shoes – Desarrollador de Software Freelance.<br>
+Agosto – septiembre 2020<br>
+• Se desarrollo una aplicación de escritorio para la gestión de artículos de calzado, ropa, entre otros,<br>
+• La aplicación se desarrolló utilizando Java y MySQL.<br>
 • La aplicación se configuro para funcionamiento local
 
 ### 🧐 &nbsp;Idiomas
 
-• Español
+• Español<br>
 • Inglés (Básico - A2)
