@@ -25,8 +25,8 @@ Desarrollador de software con conocimientos y experiencia trabajando con tecnolo
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=plastic&logo=GNU%20Bash&logoColor=white)
 ![Java](https://img.shields.io/badge/-JAVA-F30F00?style=plastic&logo=Java&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-AF3CFF?style=plastic&logo=PHP&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-007717?style=plastic&logo=Sql&logoColor=white)
-![noSQL](https://img.shields.io/badge/-noSQL-0067C8?style=plastic&logo=noSql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-007717?style=plastic&logo=MySQL&logoColor=white)
+![noSQL](https://img.shields.io/badge/-noSQL-0067C8?style=plastic&logo=MongoDB&logoColor=white)
 
 ### 📚 &nbsp;Frameworks and Libraries
 
@@ -41,12 +41,12 @@ Desarrollador de software con conocimientos y experiencia trabajando con tecnolo
 ### 🛠️ &nbsp;Tools and Platforms
 ![Git](https://img.shields.io/badge/-Git-E34F26?style=plastic&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-001930?style=plastic&logo=GitHub&logoColor=white)
-![SpringToolsSuite](https://img.shields.io/badge/-SpringToolsSuite-339933?style=plastic&logo=Spring&logoColor=white)
+![Spring Tools Suite](https://img.shields.io/badge/-Spring+Tools+Suite-339933?style=plastic&logo=Spring+boot&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-001930?style=plastic&logo=Eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-0067C8?style=plastic&logo=VisualStudioCode&logoColor=white)
-![AndoidStudio](https://img.shields.io/badge/-AndoidStudio-007717?style=plastic&logo=AndroidStudio&logoColor=white)
+![Andoid Studio](https://img.shields.io/badge/-Andoid+Studio-007717?style=plastic&logo=AndroidStudio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-F7DF1E?style=plastic&logo=Firebase&logoColor=black)
-![IntelliJIDEA](https://img.shields.io/badge/-IntelliJIDEA-001930?style=plastic&logo=IntelliJIDEA&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ+IDEA-001930?style=plastic&logo=IntelliJIDEA&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-0067C8?style=plastic&logo=Docker&logoColor=white)
 
 ### 🧑‍💻 &nbsp;Experiencia
