@@ -2,7 +2,7 @@
 
 ### Software Develeoper 🧑‍💻
 
-Hola, soy Guy Acevedo. Estudiante de ingeniería de sistemas en la Corporación Universitaria del Caribe (CECAR), con 10 semestres culminados.
+Estudiante de ingeniería de sistemas en la Corporación Universitaria del Caribe (CECAR), con 10 semestres culminados.
 Apasionado por los proyectos que emprende, en especial los que implican retos donde la innovación tecnológica juegue un papel fundamental.
 
 Desarrollador de software con conocimientos y experiencia trabajando con tecnologías web, de escritorio y para móviles.
