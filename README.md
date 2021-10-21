@@ -33,6 +33,7 @@ Desarrollador de software con conocimientos y experiencia trabajando con tecnolo
 ![Spring](https://img.shields.io/badge/-Spring-339933?style=plastic&logo=Spring&logoColor=white)
 ![JQuery](https://img.shields.io/badge/-JQuery-0067C8?style=plastic&logo=JQuery&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-red?style=plastic&logo=Angular&logoColor=white)
 ![Ionic](https://img.shields.io/badge/-Ionic-0067C8?style=plastic&logo=Ionic&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-F30F00?style=plastic&logo=Laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-E34F26?style=plastic&logo=CodeIgniter&logoColor=white)
@@ -69,6 +70,7 @@ Agosto – septiembre 2020<br>
 
 ### 📬 &nbsp;Contacto
 
+[![Website Badge](https://img.shields.io/badge/-https://guyacevedo.github.io-black?style=plastic&logo=InternetExplorer&logoColor=white&link=https://guyacevedo.github.io/)](https://guyacevedo.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-guyacevedo-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guyacevedo/)](https://www.linkedin.com/in/guyacevedo/)
 [![Twitter Badge](https://img.shields.io/badge/guyacevedo_-1DA1F2?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/guyacevedo_)](https://twitter.com/guyacevedo_)
 [![Gmail Badge](https://img.shields.io/badge/-guy.acevedoa@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:guy.acevedoa@gmail.com)](mailto:guy.acevedoa@gmail.com)
