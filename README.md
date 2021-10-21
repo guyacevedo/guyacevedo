@@ -3,11 +3,11 @@
 ### Software Develeoper 🧑‍💻
 
 Hola, soy Guy Acevedo. Estudiante de ingeniería de sistemas en la Corporación Universitaria del Caribe (CECAR), con 10 semestres culminados.
-Apasionado por los proyectos que emprende, en especial losque implican retos donde la innovación tecnológica juegue un papel fundamental.
+Apasionado por los proyectos que emprende, en especial los que implican retos donde la innovación tecnológica juegue un papel fundamental.
 
-Desarrollador de software con conocimientos y experiencia, trabajando con tecnologías web, de escritorio y para móviles.
+Desarrollador de software con conocimientos y experiencia trabajando con tecnologías web, de escritorio y para móviles.
 
-> Mi enfoque principal es ofrecer productos accesibles e inclusivos y experiencias digitales para una variedad de clientes como desarrollador de software.
+> Mi enfoque principal es ofrecer productos accesibles e inclusivos, y experiencias digitales para una variedad de clientes como desarrollador de software.
 
 ### ⚡️ &nbsp;FrontEnd
 
@@ -28,7 +28,7 @@ Desarrollador de software con conocimientos y experiencia, trabajando con tecnol
 ![SQL](https://img.shields.io/badge/-SQL-007717?style=plastic&logo=Sql&logoColor=white)
 ![noSQL](https://img.shields.io/badge/-noSQL-0067C8?style=plastic&logo=noSql&logoColor=white)
 
-### 📚 &nbsp;Frameworks ans Libraries
+### 📚 &nbsp;Frameworks and Libraries
 
 ![Spring](https://img.shields.io/badge/-Spring-339933?style=plastic&logo=Spring&logoColor=white)
 ![JQuery](https://img.shields.io/badge/-JQuery-0067C8?style=plastic&logo=JQuery&logoColor=white)
@@ -37,12 +37,12 @@ Desarrollador de software con conocimientos y experiencia, trabajando con tecnol
 ![Laravel](https://img.shields.io/badge/-Laravel-F30F00?style=plastic&logo=Laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-E34F26?style=plastic&logo=CodeIgniter&logoColor=white)
 
-### 🛠️ &nbsp;Tools ans Platforms
+### 🛠️ &nbsp;Tools and Platforms
 ![Git](https://img.shields.io/badge/-Git-E34F26?style=plastic&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-001930?style=plastic&logo=GitHub&logoColor=white)
-![SpringToolsSuite](https://img.shields.io/badge/-SpringToolsSuite-339933?style=plastic&logo=SpringToolsSuite&logoColor=white)
+![SpringToolsSuite](https://img.shields.io/badge/-SpringToolsSuite-339933?style=plastic&logo=Spring&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-001930?style=plastic&logo=Eclipse&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-0067C8?style=plastic&logo=VSCode&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-0067C8?style=plastic&logo=VisualStudioCode&logoColor=white)
 ![AndoidStudio](https://img.shields.io/badge/-AndoidStudio-007717?style=plastic&logo=AndroidStudio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-F7DF1E?style=plastic&logo=Firebase&logoColor=black)
 ![IntelliJIDEA](https://img.shields.io/badge/-IntelliJIDEA-001930?style=plastic&logo=IntelliJIDEA&logoColor=white)
@@ -58,7 +58,7 @@ Enero – agosto 2021<br>
 
 Tendencias shoes – Desarrollador de Software Freelance.<br>
 Agosto – septiembre 2020<br>
-• Se desarrollo una aplicación de escritorio para la gestión de artículos de calzado, ropa, entre otros,<br>
+• Se desarrollo una aplicación de escritorio para la gestión de artículos de calzado, ropa, entre otros.<br>
 • La aplicación se desarrolló utilizando Java y MySQL.<br>
 • La aplicación se configuro para funcionamiento local
 
@@ -69,7 +69,8 @@ Agosto – septiembre 2020<br>
 
 ### 📬 &nbsp;Contacto
 
-[![Linkedin Badge](https://img.shields.io/badge/-GuyAcevedo-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guyacevedo/)](https://www.linkedin.com/in/guyacevedo/)
-[![Twitter Badge](https://img.shields.io/badge/GuyAcevedo-1DA1F2?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/guyacevedo_)](https://twitter.com/guyacevedo_)
+[![Linkedin Badge](https://img.shields.io/badge/-guyacevedo-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guyacevedo/)](https://www.linkedin.com/in/guyacevedo/)
+[![Twitter Badge](https://img.shields.io/badge/guyacevedo_-1DA1F2?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/guyacevedo_)](https://twitter.com/guyacevedo_)
 [![Gmail Badge](https://img.shields.io/badge/-guy.acevedoa@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:guy.acevedoa@gmail.com)](mailto:guy.acevedoa@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-GuyAcevedo-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/guyacevedo/)](https://www.instagram.com/guyacevedo/)
+[![Facebook Badge](https://img.shields.io/badge/-guyacevedo-blue?style=plastic&logo=facebook&logoColor=white&link=https://www.instagram.com/guyacevedo/)](https://www.instagram.com/guyacevedo/)
+[![Instagram Badge](https://img.shields.io/badge/-guyacevedo-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.facebook.com/guyacevedo/)](https://www.instagram.com/guyacevedo/)
