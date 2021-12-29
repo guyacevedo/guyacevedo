@@ -2,7 +2,7 @@
 
 ### Software Develeoper 🧑‍💻
 
-Ingeniero de Sistemas egresado de la Corporación Universitaria del Caribe (CECAR)
+Ingeniero de Sistemas egresado de la Corporación Universitaria del Caribe (CECAR).
 Desarrollador de software con conocimientos y experiencia trabajando con tecnologías web, de escritorio y para móviles.
 
 Apasionado por los proyectos que emprende, en especial los que implican retos donde la innovación tecnológica juegue un papel fundamental.
