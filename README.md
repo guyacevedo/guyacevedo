@@ -2,11 +2,10 @@
 
 ### Software Develeoper 🧑‍💻
 
-Estudiante de ingeniería de sistemas en la Corporación Universitaria del Caribe (CECAR), con 10 semestres culminados.
-Apasionado por los proyectos que emprende, en especial los que implican retos donde la innovación tecnológica juegue un papel fundamental.
-
+Ingeniero de Sistemas egresado de la Corporación Universitaria del Caribe (CECAR)
 Desarrollador de software con conocimientos y experiencia trabajando con tecnologías web, de escritorio y para móviles.
 
+Apasionado por los proyectos que emprende, en especial los que implican retos donde la innovación tecnológica juegue un papel fundamental.
 > Mi enfoque principal es ofrecer productos accesibles e inclusivos, y experiencias digitales para una variedad de clientes como desarrollador de software.
 
 ### ⚡️ &nbsp;FrontEnd
