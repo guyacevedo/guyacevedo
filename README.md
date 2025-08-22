@@ -3,10 +3,13 @@
 ### Software Develeoper 🧑‍💻
 
 Ingeniero de Sistemas egresado de la Corporación Universitaria del Caribe (CECAR).
-Desarrollador de software con conocimientos y experiencia trabajando con tecnologías web, de escritorio y para móviles.
-
-Apasionado por los proyectos que emprende, en especial los que implican retos donde la innovación tecnológica juegue un papel fundamental.
-> Mi enfoque principal es ofrecer productos accesibles e inclusivos, y experiencias digitales para una variedad de clientes como desarrollador de software.
+Desarrollador Full Stack con más de 4 años de experiencia en FrontEnd y 5 años en Backend, especializado en la
+creación de interfaces modernas, escalables y centradas en el usuario utilizando Angular e Ionic. Domino
+tecnologías como TypeScript, JavaScript, HTML y CSS, y complemento mi perfil con experiencia sólida en PHP, Java,
+SQL y NodeJS.
+> Mi enfoque combina arquitectura modular, automatización CI/CD, pruebas automatizadas y colaboración efectiva
+con equipos multidisciplinarios. Me apasiona construir soluciones completas que integren diseño, funcionalidad y
+rendimiento, aplicando buenas prácticas como TDD, principios SOLID y metodologías ágiles.
 
 ### ⚡️ &nbsp;FrontEnd
 
@@ -50,22 +53,32 @@ Apasionado por los proyectos que emprende, en especial los que implican retos do
 
 ### 🧑‍💻 &nbsp;Experiencia
 
-Creditos Berpar – Desarrollador de Software Freelance.<br>
-Enero – agosto 2021<br>
-• Se desarrollo una aplicación web para la gestión de préstamos de dinero y clientes.<br>
-• La aplicación se desarrolló utilizando PHP y MySQL con el framework Codeigniter 4.<br>
-• La aplicación se subió a un hosting.
+Desarrollador Senior FrontEnd<br>
+Efficode S.A.S – Sector Tecnológico | Enero 2022 – Actualidad<br>
+* Desarrollo FrontEnd en proyecto Fintech enfocado en microcréditos y préstamos personales
+* Arquitectura basada en MicroFrontEnds encapsulados en un contenedor raíz
+* Responsable del desarrollo y mantenimiento de módulos MFE: nuevas funcionalidades, actualizaciones, pruebas automatizadas e integración continua
+* Aplicación de TDD con Jest y Karma para asegurar calidad de código
+* Colaboración con analistas técnicos, líderes de producto, desarrolladores Backend, QA y stakeholders
+* Participación activa en procesos CI/CD con Docker, GitLab, SonarQube y Rundeck
+* Trabajo bajo metodologías ágiles y scrum
+* Uso de herramientas como Figma, Jira y Microsoft Teams para alinear criterios visuales y funcionales
+Stack tecnológico: Angular (v12–v15), Jest, Karma, Docker, SonarQube, Rundeck, GitLab, Jira, Microsoft Teams, Figma
 
-Tendencias shoes – Desarrollador de Software Freelance.<br>
-Agosto – septiembre 2020<br>
-• Se desarrollo una aplicación de escritorio para la gestión de artículos de calzado, ropa, entre otros.<br>
-• La aplicación se desarrolló utilizando Java y MySQL.<br>
-• La aplicación se configuro para funcionamiento local
+Desarrollador Full Stack PHP<br>
+CRÉDITOS BERPAR S.A.S – Sector financiero | Junio 2021 – Diciembre 2021<br>
+* Desarrollo de BERPAR, plataforma contable escalable para operaciones financieras
+* Diseño de componentes FrontEnd con jQuery para mejorar la usabilidad
+* Desarrollo Backend en PHP con CodeIgniter, enfocado en eficiencia y escalabilidad
+* Aplicación de principios SOLID y librerías reutilizables para estandarización de código
+* Supervisión del despliegue en producción, optimizando rendimiento y disponibilidad
+* Trabajo bajo metodología RUP para entregas estructuradas y de alta calidad
+Stack tecnológico: PHP, MySQL, jQuery, CodeIgniter
 
 ### 🧐 &nbsp;Idiomas
 
-• Español<br>
-• Inglés (Básico - A2)
+• Españo (Nativo)<br>
+• Inglés (Básico - B1)
 
 ### 📬 &nbsp;Contacto
 
