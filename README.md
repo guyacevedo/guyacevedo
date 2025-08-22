@@ -1,8 +1,8 @@
 ## Hola 👋 soy [Guy Acevedo](https://guyacevedo.github.io/)
 
-### Software Develeoper 🧑‍💻
+### Desarrollador Full Stack | Especialista en FrontEnd Angular 🧑‍💻
 
-Ingeniero de Sistemas egresado de la Corporación Universitaria del Caribe (CECAR).
+Ingeniero de Sistemas egresado de la Corporación Universitaria del Caribe (CECAR).<br>
 Desarrollador Full Stack con más de 4 años de experiencia en FrontEnd y 5 años en Backend, especializado en la
 creación de interfaces modernas, escalables y centradas en el usuario utilizando Angular e Ionic. Domino
 tecnologías como TypeScript, JavaScript, HTML y CSS, y complemento mi perfil con experiencia sólida en PHP, Java,
@@ -62,7 +62,7 @@ Efficode S.A.S – Sector Tecnológico | Enero 2022 – Actualidad<br>
 * Colaboración con analistas técnicos, líderes de producto, desarrolladores Backend, QA y stakeholders
 * Participación activa en procesos CI/CD con Docker, GitLab, SonarQube y Rundeck
 * Trabajo bajo metodologías ágiles y scrum
-* Uso de herramientas como Figma, Jira y Microsoft Teams para alinear criterios visuales y funcionales
+* Uso de herramientas como Figma, Jira y Microsoft Teams para alinear criterios visuales y funcionales<br>
 Stack tecnológico: Angular (v12–v15), Jest, Karma, Docker, SonarQube, Rundeck, GitLab, Jira, Microsoft Teams, Figma
 
 Desarrollador Full Stack PHP<br>
@@ -72,7 +72,7 @@ CRÉDITOS BERPAR S.A.S – Sector financiero | Junio 2021 – Diciembre 2021<br>
 * Desarrollo Backend en PHP con CodeIgniter, enfocado en eficiencia y escalabilidad
 * Aplicación de principios SOLID y librerías reutilizables para estandarización de código
 * Supervisión del despliegue en producción, optimizando rendimiento y disponibilidad
-* Trabajo bajo metodología RUP para entregas estructuradas y de alta calidad
+* Trabajo bajo metodología RUP para entregas estructuradas y de alta calidad<br>
 Stack tecnológico: PHP, MySQL, jQuery, CodeIgniter
 
 ### 🧐 &nbsp;Idiomas
